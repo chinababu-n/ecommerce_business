@@ -88,5 +88,13 @@ CREATE INDEX idx_products ON business(products);
 
 # Screenshots
 ![Screenshot 2025-04-10 211557](https://github.com/user-attachments/assets/6f5355af-b615-43a8-8a27-a8adf20d56c6)
+![higest sales](https://github.com/user-attachments/assets/ac5eedc2-4cf9-42fe-8373-860ee995828f)
+![Screenshot 2025-04-10 212952](https://github.com/user-attachments/assets/ee4f0503-76b0-4d3a-a69d-408b79ad6385)
+![Screenshot 2025-04-10 212937](https://github.com/user-attachments/assets/f601736d-8c29-4575-9c7a-7d09f7aedcc4)
+![Average sales](https://github.com/user-attachments/assets/81df9709-27d3-47d8-9fad-ff3c06ca7612)
+
+
+
+
 
 
