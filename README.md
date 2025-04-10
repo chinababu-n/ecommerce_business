@@ -67,3 +67,19 @@ SELECT * FROM high_sales_products;
 
 -- 15. Add an index on products for optimization
 CREATE INDEX idx_products ON business(products);
+
+# Ecommerce Business SQL Analysis
+
+This project contains SQL scripts to create a simple e-commerce database in MySQL and perform various data analysis tasks.
+
+## Database Name
+`ecommerce_business`
+
+## Table Name
+`business`
+
+## Contents
+- Table creation
+- Sample data insert
+- Sales analytics using SQL
+- Views and indexes
