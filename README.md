@@ -84,3 +84,9 @@ SELECT * FROM high_sales_products;
 
 -- 15. Add an index on products for optimization
 CREATE INDEX idx_products ON business(products);
+
+
+# Screenshots
+![Screenshot 2025-04-10 211557](https://github.com/user-attachments/assets/6f5355af-b615-43a8-8a27-a8adf20d56c6)
+
+
